@@ -1,0 +1,1 @@
+# setInterval VS while 스케줄러
